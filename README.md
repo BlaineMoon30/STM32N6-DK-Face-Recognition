@@ -19,5 +19,7 @@
 - Set the STM32N6-DK board to Flash boot mode and power it on.
 - Press the USER button to register up to 10 faces.
 
+## Run
+- FaceNet : https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android
 
 <br/>Further details will be updated later.
